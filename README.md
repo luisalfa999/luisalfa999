@@ -1,16 +1,15 @@
-### Hi there 👋
+### BOAS VINDAS AO MEU PERFIL🚙
 
-<!--
-**luisalfa999/luisalfa999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é LUIS GUILHERME
 
-Here are some ideas to get you started:
+- Estou estudando na![ Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você ENTRA EM CONTATO COMIGO 📫
+
+silva.carvalho.luis@escola.pr.gov.br
+
+luisalfa999
+
+![](https://media.tenor.com/XzVD7W03l-4AAAAd/siuuu-ronaldo.gif)
